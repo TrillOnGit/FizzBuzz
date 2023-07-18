@@ -1,0 +1,15 @@
+/home/trillion/Repos/FizzBuzzProj/bin/Debug/net7.0/FizzBuzzProj
+/home/trillion/Repos/FizzBuzzProj/bin/Debug/net7.0/FizzBuzzProj.deps.json
+/home/trillion/Repos/FizzBuzzProj/bin/Debug/net7.0/FizzBuzzProj.runtimeconfig.json
+/home/trillion/Repos/FizzBuzzProj/bin/Debug/net7.0/FizzBuzzProj.dll
+/home/trillion/Repos/FizzBuzzProj/bin/Debug/net7.0/FizzBuzzProj.pdb
+/home/trillion/Repos/FizzBuzzProj/obj/Debug/net7.0/FizzBuzzProj.csproj.AssemblyReference.cache
+/home/trillion/Repos/FizzBuzzProj/obj/Debug/net7.0/FizzBuzzProj.GeneratedMSBuildEditorConfig.editorconfig
+/home/trillion/Repos/FizzBuzzProj/obj/Debug/net7.0/FizzBuzzProj.AssemblyInfoInputs.cache
+/home/trillion/Repos/FizzBuzzProj/obj/Debug/net7.0/FizzBuzzProj.AssemblyInfo.cs
+/home/trillion/Repos/FizzBuzzProj/obj/Debug/net7.0/FizzBuzzProj.csproj.CoreCompileInputs.cache
+/home/trillion/Repos/FizzBuzzProj/obj/Debug/net7.0/FizzBuzzProj.dll
+/home/trillion/Repos/FizzBuzzProj/obj/Debug/net7.0/refint/FizzBuzzProj.dll
+/home/trillion/Repos/FizzBuzzProj/obj/Debug/net7.0/FizzBuzzProj.pdb
+/home/trillion/Repos/FizzBuzzProj/obj/Debug/net7.0/FizzBuzzProj.genruntimeconfig.cache
+/home/trillion/Repos/FizzBuzzProj/obj/Debug/net7.0/ref/FizzBuzzProj.dll
